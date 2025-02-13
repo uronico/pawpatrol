@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Labrador",
+        "description": "The Labrador is a friendly and outgoing dog breed."
+    },
+    {
+        "name": "German Shepherd",
+        "description": "The German Shepherd is a loyal and protective dog breed."
+    },
+    {
+        "name": "Retriever",
+        "description": "The Golden Retriever is a friendly and intelligent dog breed."
+    }
+]
